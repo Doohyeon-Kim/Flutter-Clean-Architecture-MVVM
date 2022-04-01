@@ -28,22 +28,28 @@ Flutter Clean Architecture made by Doohyeon Kim.
 │   ├── data
 │   │   ├── data_sources
 │   │   │   ├── local
-│   │   │   │   └── local_data_sources
+│   │   │   │   └── sample_local_data_source.dart
 │   │   │   └── remote
-│   │   │       └── remote_data_sources
+│   │   │       └── sample_remote_data_source.dart
 │   │   ├── entities
+│   │   │   └── sample_entity.dart
 │   │   └── repositories
 │   │       └── sample_repository_impl.dart
 │   ├── domain
 │   │   ├── models
+│   │   │   └── sample_model.dart
 │   │   ├── repositories
 │   │   │   └── sample_repository.dart
 │   │   ├── translator
+│   │   │   └── sample_translator.dart
 │   │   └── usecases
+│   │       └── sample_usecase.dart
 │   ├── main.dart
 │   ├── presentation
 │   │   ├── view_models
+│   │   │   └── sample_view_model.dart
 │   │   └── views
+│   │       └── sample_view.dart
 │   ├── screens
 │   ├── services
 │   │   ├── error
