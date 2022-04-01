@@ -30,7 +30,7 @@ Flutter Clean Architecture made by Doohyeon Kim.
 │   │   │   ├── local
 │   │   │   │   └── local_data_sources
 │   │   │   └── remote
-│   │   │   │   └── remote_data_sources
+│   │   │       └── remote_data_sources
 │   │   ├── entities
 │   │   └── repositories
 │   │       └── sample_repository_impl.dart
