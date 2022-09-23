@@ -1,1 +1,1 @@
-class LocalDataSource{}
+class SampleLocalDataSource{}

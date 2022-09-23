@@ -1,1 +1,1 @@
-class Apple
+class AppleSdkManager{}

@@ -1,1 +1,1 @@
-class RemoteDataSource{}
+class SampleRemoteDataSource{}

@@ -1,3 +1,3 @@
-import 'package:flutter_clean_architecture/domain/repositories/repository.dart';
+import 'package:flutter_clean_architecture/domain/repositories/sample_repository.dart';
 
-class RepositoryImpl extends Repository{}
+class SampleRepositoryImpl extends SampleRepository{}

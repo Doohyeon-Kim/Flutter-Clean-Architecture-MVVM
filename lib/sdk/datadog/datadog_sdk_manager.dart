@@ -1,1 +1,1 @@
-class DatadogSdk{}
+class DatadogSdkManager{}

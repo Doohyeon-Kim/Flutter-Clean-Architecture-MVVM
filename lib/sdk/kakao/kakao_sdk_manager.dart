@@ -1,1 +1,1 @@
-class KakaoSdk{}
+class KakaoSdkManager{}

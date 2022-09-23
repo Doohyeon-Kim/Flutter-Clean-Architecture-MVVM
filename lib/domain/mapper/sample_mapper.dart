@@ -1,1 +1,1 @@
-class Mapper{}
+class SampleMapper{}

@@ -1,1 +1,1 @@
-class Model{}
+class SampleModel{}

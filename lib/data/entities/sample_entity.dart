@@ -1,1 +1,1 @@
-class Entity{}
+class SampleEntity{}

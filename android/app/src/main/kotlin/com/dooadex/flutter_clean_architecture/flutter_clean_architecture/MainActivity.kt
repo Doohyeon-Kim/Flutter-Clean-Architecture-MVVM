@@ -1,4 +1,4 @@
-package com.dooadex.flutter_clean_architecture.flutter_clean_architecture
+package kim.doohyeon.flutter_clean_architecture.flutter_clean_architecture
 
 import io.flutter.embedding.android.FlutterActivity
 
