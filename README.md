@@ -108,11 +108,11 @@ Flutter Clean Architecture made by Doohyeon Kim.
 │   │   │       └── sample_remote_data_source.dart
 │   │   ├── entities
 │   │   │   └── sample_entity.dart
+│   │   ├── mapper
+│   │   │   └── sample_mapper.dart
 │   │   └── repositories
 │   │       └── sample_repository_impl.dart
 │   ├── domain
-│   │   ├── mapper
-│   │   │   └── sample_mapper.dart
 │   │   ├── models
 │   │   │   └── sample_model.dart
 │   │   ├── repositories
