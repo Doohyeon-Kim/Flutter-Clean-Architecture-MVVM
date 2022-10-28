@@ -2,8 +2,6 @@
 
 Flutter Clean Architecture made by Doohyeon Kim.
 
-![dooadex_flutter_architecture_mvvvm](https://user-images.githubusercontent.com/92246475/161225332-f066c4e4-7b9f-4e90-b4e4-c73c4ba22e1b.png)
-
 ## Directory Structure
 
 ```bash
