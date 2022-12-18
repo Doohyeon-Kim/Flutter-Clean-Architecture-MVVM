@@ -3,7 +3,7 @@
 Flutter Clean Architecture made by Doohyeon Kim.
 
 
-![Mobile Clean Architecture](https://user-images.githubusercontent.com/92246475/204074447-5972a892-1003-4540-95f6-eff38e1833a9.png)
+![Mobile Clean Architecture-MVVM](https://user-images.githubusercontent.com/92246475/208323685-3a7cbb9f-7c45-4e61-ac53-e2d7e55fb2c0.png)
 
 
 ## Directory Structure
