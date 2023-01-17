@@ -124,7 +124,7 @@ Flutter Clean Architecture made by Doohyeon Kim.
 │   ├── main.dart
 │   ├── presentation
 │   │   ├── pages
-│   │   │   └── home.dart
+│   │   │   └── home_page.dart
 │   │   ├── view_models
 │   │   │   └── sample_view_model.dart
 │   │   └── views
