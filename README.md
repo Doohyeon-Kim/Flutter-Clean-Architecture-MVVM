@@ -123,7 +123,7 @@ Flutter Clean Architecture made by Doohyeon Kim.
 │   │       └── sample_use_case.dart
 │   ├── main.dart
 │   ├── presentation
-│   │   ├── screens
+│   │   ├── pages
 │   │   │   └── home.dart
 │   │   ├── view_models
 │   │   │   └── sample_view_model.dart
