@@ -1,4 +1,4 @@
-# flutter_clean_architecture_mvvm
+# Flutter-Clean_Architecture_MVVM
 
 Flutter Clean Architecture made by Doohyeon Kim.
 
